@@ -3,6 +3,7 @@ Manjaro Numix Reborn  (Personalization Pack)
 Original Numix icon theme and GTK-XFCE themes are made by Numix Project (visit: https://numixproject.org/)
 Menda Cursor Theme are included on Manjaro 0.8.13 (based on Breeze cursor theme).
 Wallpapers Manjaro-ST3 made by Ugo Yak.
+
 --------------------------------------------
 
 ## Complementary Tweaks 
