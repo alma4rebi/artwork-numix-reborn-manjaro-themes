@@ -1,8 +1,8 @@
 [Icon Theme]
-Name=Numix Circle Green
+Name=Numix-Reborn-Circle
 Comment=Numix icon theme with a circular apps icons design
 
-Inherits=Numix-Green
+Inherits=Numix-Reborn
 
 Example=directory-x-normal
 
